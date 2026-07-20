@@ -32,6 +32,13 @@ Plugin de **Integração de Fluxo de Trabalho** nativo do **DaVinci Resolve Stud
 3. Dois cliques em **INSTALAR.bat**.
 4. DaVinci Studio → **Área de trabalho › Integrações de Fluxo de Trabalho › VELVET Transcrição** → **Ativar** → cole a chave.
 
+## Como usar
+
+1. Abra sua **timeline** no DaVinci Studio e abra o **VELVET Transcrição**.
+2. **Selecione o clipe** e clique em **transcrever** — a IA roda na **sua GPU** (Whisper local), sem nuvem.
+3. Edite o vídeo **pelo texto**: apagar uma palavra **corta o vídeo** (ripple). Use **localizar/substituir** e **remover pausas/muletas**.
+4. Exporte **SRT** ou mande o texto pro **VELVET Legenda** pra virar legenda estilizada.
+
 ## Comprar
 
 Compra única · 2 dispositivos por chave · atualizações inclusas · **R%24%2097**.
